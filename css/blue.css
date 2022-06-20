@@ -2263,7 +2263,7 @@ footer .footer-nav li a span {
   height: 32px;
   line-height: 32px;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 13px;
   color: white;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -3233,8 +3233,8 @@ p.slide-left{
   animation-delay: 1s;
 }
 .contactimg{
-  width: 80%;
-  height:  80%;
+  width: 50%;
+  height:  50%;
   margin-top: -91px;
   margin-left: -80px;
 }
