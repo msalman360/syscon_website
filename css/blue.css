@@ -610,7 +610,7 @@ blockquote .author {
 }
 @media (max-width: 820px) {
   .our-services {
-    padding: 950px 0 0 0;
+    padding: 1000px 0 0 0;
   }
   .social{
     visibility: hidden;
@@ -1295,7 +1295,7 @@ welcome
   }
   .welcome-area .header-text .email-box {
     max-width: 100% !important;
-    margin-bottom: 140px;
+    margin-bottom: 230px;
     
   }
   .welcome-area .header-text .email-box span {
