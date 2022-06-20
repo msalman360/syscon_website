@@ -616,6 +616,14 @@ blockquote .author {
     visibility: hidden;
   }
 }
+@media (max-width: 1080px) {
+  .our-services {
+    padding: 1000px 0 0 0;
+  }
+  .social{
+    visibility: hidden;
+  }
+}
 /* 
 ---------------------------------------------
 header
