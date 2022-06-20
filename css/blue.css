@@ -624,6 +624,14 @@ blockquote .author {
     visibility: hidden;
   }
 }
+@media (max-width: 280px) {
+  .our-services {
+    padding: 1240px 0 0 0;
+  }
+  .social{
+    visibility: hidden;
+  }
+}
 /* 
 ---------------------------------------------
 header
@@ -1271,7 +1279,7 @@ welcome
 @media (max-width: 991px) {
   .welcome-area {
     margin-top: 80px;
-    height: 800px;
+    height: 1020px;
   }
   .welcome-area .header-bg {
     display: none;
